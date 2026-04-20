@@ -1,0 +1,136 @@
+*************************** START ****************************
+START TIME: 202603102339
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x6546da68
+mac h: 0xaba0b7
+crc_cal: 171
+crc_read: 171
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00164068
+manufacturer_id: 0x68
+device_id: 0x4016
+Wrote 26752 bytes (16362 compressed) at 0x00001000 in 1.8 seconds (effective 117.6 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (113 compressed) at 0x00008000 in 0.0 seconds (effective 529.1 kbit/s)...
+Hash of data verified.Wrote 28 bytes (37 compressed) at 0x0000e000 in 0.0 seconds (effective 7.1 kbit/s)...
+Hash of data verified.Wrote 689312 bytes (405424 compressed) at 0x00010000 in 35.9 seconds (effective 153.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 43 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202603110006
+CONNECT BAUD: 115200
+serial port open error
+COM:COM9
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202603110006
+CONNECT BAUD: 115200
+serial port open error
+COM:COM9
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202603110006
+CONNECT BAUD: 115200
+serial port open error
+COM:COM9
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202603110007
+CONNECT BAUD: 115200
+serial port open error
+COM:COM9
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202603110007
+CONNECT BAUD: 115200
+serial port open error
+COM:COM9
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202603110007
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x6546da68
+mac h: 0xaba0b7
+crc_cal: 171
+crc_read: 171
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00164068
+manufacturer_id: 0x68
+device_id: 0x4016
+Wrote 26752 bytes (16362 compressed) at 0x00001000 in 1.8 seconds (effective 120.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (113 compressed) at 0x00008000 in 0.1 seconds (effective 431.5 kbit/s)...
+Hash of data verified.Wrote 28 bytes (39 compressed) at 0x0000e000 in 0.0 seconds (effective 5.4 kbit/s)...
+Hash of data verified.Wrote 689312 bytes (405424 compressed) at 0x00010000 in 35.9 seconds (effective 153.5 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 42 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202603140104
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x6546da68
+mac h: 0xaba0b7
+crc_cal: 171
+crc_read: 171
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00164068
+manufacturer_id: 0x68
+device_id: 0x4016
+Wrote 26752 bytes (16362 compressed) at 0x00001000 in 1.8 seconds (effective 119.9 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (113 compressed) at 0x00008000 in 0.1 seconds (effective 422.9 kbit/s)...
+Hash of data verified.Wrote 28 bytes (39 compressed) at 0x0000e000 in 0.0 seconds (effective 4.9 kbit/s)...
+Hash of data verified.Wrote 689312 bytes (405424 compressed) at 0x00010000 in 36.0 seconds (effective 153.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 42 s
+Download result: PASS
+*************************** END ****************************
+
