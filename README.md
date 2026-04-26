@@ -51,7 +51,7 @@ Sử dụng thư viện PxMatrix, kết nối theo bảng sau:
 
 > **Lưu ý quan trọng về nguồn:** Mạch bắt buộc phải được nối chung mass (GND) giữa ESP8266, tấm LED và nguồn cấp để đảm bảo tín hiệu ổn định, giải quyết triệt để tình trạng chớp nháy hoặc nhiễu màn hình.
 
-**2. Kết nối Mạch thời gian thực DS3231 (hiện tại chỉ tối ưu cho mạch DS1307 và DS3231)với ESP8266:**
+**2. Kết nối Mạch thời gian thực [DS3231](https://s.shopee.vn/5fl7M22M4h) (hiện tại chỉ tối ưu cho mạch [DS1307](https://s.shopee.vn/6VKELjxhAL) và [DS3231](https://s.shopee.vn/5fl7M22M4h))với ESP8266:**
 
 | Chân trên DS3231 | Chân cắm trên ESP8266 | Chú thích |
 | :--- | :--- | :--- |
