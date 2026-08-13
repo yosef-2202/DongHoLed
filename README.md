@@ -1,5 +1,5 @@
 # 🕒 [Đang Phát Triển-Demo] ESP8266 Smart LED Matrix Clock (Đồng hồ Ma trận Thông minh)
-
+# [Web Hỗ trợ cài lên ESP8266](https://iot.tbgroup.run.place/)
 Dự án Đồng hồ LED Ma trận sử dụng vi điều khiển ESP8266 (NodeMCU/Wemos) kết hợp với tấm nền LED HUB75 (Hiện Tại chỉ hỗ trợ P5). Đồng hồ tích hợp đa chức năng: xem ngày tháng Âm dương, theo dõi thời tiết, tự động đồng bộ giờ qua Internet và có Web UI quản lý cực kỳ tiện lợi.
 
 ![Ảnh hoàn thiện sản phẩm](./sp.png)
