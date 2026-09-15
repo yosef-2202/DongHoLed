@@ -74,6 +74,20 @@ Thực hiện nối dây chéo từ cổng PI (Đầu vào) sang cổng PO (Đ�
 | **B1** | ↔ | **G2** |
 | **B2** | ↔ | **B1** |
 
+**4. Kết nối Nút nhấn cấu hình (Reset WiFi / Factory Reset):**
+
+Nếu bạn muốn trang bị nút cứng để xử lý khi đổi pass WiFi hoặc lỗi mạng mà không cần vào Web UI:
+
+| Chân trên Nút nhấn | Chân cắm trên ESP8266 | Chú thích |
+| :--- | :--- | :--- |
+| **Chân 1** | `RX` (Chân số 3) | Nhận tín hiệu (Pull-up) |
+| **Chân 2** | `GND` | Nối chung Mass |
+
+> **Thao tác sử dụng nút:**
+> *   **Xóa WiFi (Reset mạng):** Nhấn và giữ nút khoảng 1 giây. Màn hình sẽ hiện "WIFI RST" đếm ngược 3 giây.
+> *   **Khôi phục gốc (Factory Reset):** Bấm nhả 1 lần, ngay sau đó bấm giữ luôn. Màn hình sẽ hiện "FACTORY" đếm ngược 3 giây để xóa sạch toàn bộ Data và WiFi.
+> *   *Lưu ý: Nếu nhả nút trong lúc đếm ngược, lệnh reset sẽ bị hủy.*
+
 ---
 
 ## 🚀 Hướng dẫn Nạp Firmware (Dành cho người không muốn cài đặt IDE)
